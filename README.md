@@ -263,7 +263,7 @@ predict_image(model,image_index=25,dataset=test_dataset)
 <img width="847" height="670" alt="image" src="https://github.com/user-attachments/assets/223f2abf-adf4-4d10-83b8-ed882120f2ea" />
 
 ## Confusion Matrix 
-<img width="891" height="746" alt="image" src="https://github.com/user-attachments/assets/534ec4ab-0fc9-4947-873e-01b5ab11ccf1" />
+<img width="1043" height="793" alt="image" src="https://github.com/user-attachments/assets/5338f7af-6f9c-4603-8708-c7ef5cc3f34e" />
 
 ## Classification Report 
 <img width="593" height="532" alt="image" src="https://github.com/user-attachments/assets/b18c87c1-2a2b-4a07-a627-92f34e5d020f" />
